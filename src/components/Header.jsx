@@ -10,7 +10,7 @@ const Header = () => {
   const handleSelect = (value) => {
     // Navigate to selected service
     const slug = value.toLowerCase().replace(/ & /g, "-").replace(/\s+/g, "-");
-    window.location.href = `/services#${slug}`;
+    window.location.href = `/#${slug}`;
     setIsOpen(false);
   };
 
