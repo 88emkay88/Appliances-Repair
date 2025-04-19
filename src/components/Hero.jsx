@@ -9,7 +9,7 @@ const Hero = () => {
         <div className=" inset-0 -z-10">
           <img
             className="w-full"
-            src="/src/assets/images/background-kitchen.jpg"
+            src="/images/background-kitchen.jpg"
             alt="clean kitchen"
           />
         </div>
@@ -24,7 +24,7 @@ const Hero = () => {
             </div>
 
             <div className="ml-20">
-              <img src="/src/assets/images/appliances.png" alt="" />
+              <img src="/images/appliances.png" alt="" />
             </div>
           </div>
 

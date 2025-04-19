@@ -21,7 +21,7 @@ const Services = () => {
             <div>
               <img
                 className="w-2/4 absolute -top-13 right-0"
-                src="/src/assets/images/Fridge.png"
+                src="/images/Fridge.png"
                 alt=" A fridge"
               />
             </div>
@@ -36,7 +36,7 @@ const Services = () => {
             <div>
               <img
                 className="w-2/4 absolute -top-13 right-0"
-                src="/src/assets/images/Tap.png"
+                src="/images/Tap.png"
                 alt="A Tap"
               />
             </div>
@@ -51,7 +51,7 @@ const Services = () => {
             <div>
               <img
                 className="w-2/4 absolute -top-13 right-0"
-                src="/src/assets/images/Microwave.png"
+                src="/images/Microwave.png"
                 alt=" A microwave"
               />
             </div>
@@ -66,7 +66,7 @@ const Services = () => {
             <div>
               <img
                 className="w-2/4 absolute -top-13 right-0"
-                src="/src/assets/images/Air-Con.png"
+                src="/images/Air-Con.png"
                 alt="An Air conditioner "
               />
             </div>
